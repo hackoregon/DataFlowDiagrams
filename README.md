@@ -4,11 +4,11 @@ This Repo houses diagrams related to Hack Oregon Infrastructure and Dataflow pro
 
 Serves as a basepoint for HTML docs.
 
-Best viewing will be via [github pages](https://hackoregon.github.io/DataflowDiagrams/).
+Best viewing will be via [github pages](https://hackoregon.github.io/DataFlowDiagrams/).
 
 ### Current Infrastructure:
 
-* [Hack Oregon Dataflow and Deploy Toolchain 201 - March 2019](https://hackoregon.github.io/DataflowDiagrams/HackOregonDataFlowDiagram2017-Mar2019.html)
+* [Hack Oregon Dataflow and Deploy Toolchain 201 - March 2019](https://hackoregon.github.io/DataFlowDiagrams/HackOregonDataFlowDiagram2017-Mar2019.html)
 * [Michael Lange's Original Whiteboard Diagram](./whiteboard_arch_diagram.png)
 
 ### Planning Diagrams:
